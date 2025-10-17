@@ -4,9 +4,11 @@ NeuralCora is a research codebase for applying neural network models to (re)fore
 
 ## 📋 Table of Contents
 
-- [Motivation](#motivation)  
-- [Models & Baselines](#models--baselines)  
-- [Usage Examples](#usage-examples)  
+- [NeuralCora](#neuralcora)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [Motivation](#motivation)
+  - [Models \& Baselines](#models--baselines)
+  - [Usage Examples](#usage-examples)
 
 ## Motivation
 
@@ -20,9 +22,9 @@ Below is a summary of current and prospective model performance (or planned mode
 |------------------------------|--------------------------|-----------------------------|
 | Persistence (Baseline)       | 0.205                    | Rasp et al. (2020)          |
 | Climatology (Baseline)       | 0.425                    | Rasp et al. (2020)          |
-| CNN                          | 0.048                    | Rasp et al. (2020)          |
-| U-Net                        | (Ongoing)                | Weyn et al. (2020)          |
-| ResNet                        | —                        | (Ongoing)                    |
+| CNN                          | 0.0391                  | Rasp et al. (2020)          |
+| U-Net                        | **0.0193**                | Weyn et al. (2020)          |
+| ResNet                        | 0.0506                 | Rasp, S., & Thuerey, N. (2021)            |
 | Vision Transformer (ViT)     | —                        | —                           |
 
 **Notes:**
